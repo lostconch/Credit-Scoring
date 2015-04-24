@@ -8,6 +8,6 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 The goal of this competition is to build a model that borrowers can use to help make the best financial decisions.
 
-Historical data are provided on 250,000 borrowers and the prize pool is $5,000 ($3,000 for first, $1,500 for second and $500 for third).
+Historical data are provided on 250,000 borrowers.
 
 
